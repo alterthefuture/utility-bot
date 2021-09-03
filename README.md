@@ -1,4 +1,4 @@
 # utility-bot
 made by - ritz#8888
 
-One of the last discord.py bot I will be making since the lib is shutting down. I will be switching to javascript or golang.
+A simple utiliy bot that has commands such as question of the day or suggest
